@@ -1,4 +1,13 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# nextjs-typescript-tailwind-styled-components-starter
+
+This is a current (Dec 2021) minimal [Next.js](https://nextjs.org/) starter using
+
+- [Next.js 12](https://nextjs.org/)
+- [TypeScript 4.5](https://www.typescriptlang.org)
+- [TailwindCSS 3](https://tailwindcss.com/)
+- [tailwind-styled-components](https://github.com/MathiasGilson/tailwind-styled-component)
+- [eslint](https://eslint.org)
+- [Prettier](https://prettier.io)
 
 ## Getting Started
 

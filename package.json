@@ -1,6 +1,9 @@
 {
-  "name": "ohueter",
-  "private": true,
+  "name": "nextjs-typescript-tailwind-styled-components-starter",
+  "version": "1.0.0",
+  "license": "MIT",
+  "homepage": "https://github.com/ohueter/nextjs-typescript-tailwind-styled-components-starter",
+  "author": "Ole Hüter <hello@hueter.net>",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -10,13 +13,20 @@
   "dependencies": {
     "next": "12.0.7",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "tailwind-styled-components": "^2.0.3"
   },
   "devDependencies": {
     "@types/node": "17.0.2",
     "@types/react": "17.0.37",
-    "eslint": "8.5.0",
+    "@types/react-dom": "^17.0.11",
+    "autoprefixer": "^10.4.0",
+    "eslint": "^8.5.0",
     "eslint-config-next": "12.0.7",
+    "eslint-config-prettier": "^8.3.0",
+    "postcss": "^8.4.5",
+    "prettier": "^2.5.1",
+    "tailwindcss": "^3.0.7",
     "typescript": "4.5.4"
   }
 }
